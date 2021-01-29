@@ -10,5 +10,9 @@ public class Main {
         Freon.size="7000KM";
         Freon.colour="Red";
         Freon.Temperature="40000c";
+
+ Planet2 Omaro=new Planet1();
+        Fearo.color="Red";
+        Fearo.Radius="87889222KM";
     }
 }
